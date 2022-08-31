@@ -1,4 +1,4 @@
-name: Typescript Kubernetes Stage Deploy
+name: Generate pre-release by tag
 
 on:
   push:
